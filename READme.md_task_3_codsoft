@@ -1,0 +1,29 @@
+Project Overview
+The ATM Interface project is a Java-based program that simulates an ATM (Automated Teller Machine) with a user-friendly interface. It allows users to perform common banking operations, including withdrawing funds, depositing funds, and checking their account balance.
+
+Features
+User Interface: The program provides an intuitive user interface with options for withdrawals, deposits, and balance checks.
+
+Transaction Handling: It implements methods for each option, such as withdraw(amount), deposit(amount), and checkBalance() to handle user transactions.
+
+Bank Account Class: The project includes a bank account class to represent and manage the user's account balance securely.
+
+Input Validation: User input is validated to ensure it is within acceptable limits. For example, it checks for sufficient balance before allowing withdrawals.
+
+Feedback to User: The program provides appropriate messages to the user based on their chosen options and the success or failure of their transactions.
+
+Usage
+Run the program.
+Use the provided interface to select the desired action (withdraw, deposit, or check balance).
+Follow the prompts to input the necessary information (e.g., withdrawal amount or deposit amount).
+The program will process the transaction and display relevant feedback to the user.
+Why This Project?
+The ATM Interface project is a practical exercise in Java programming and user interface design. It allows you to practice concepts such as class design, input validation, and user interaction in a real-world context.
+
+Contributing
+Feel free to contribute to this project by opening issues, suggesting improvements, or submitting code enhancements. Your contributions are highly appreciated!
+
+License
+This project is open-source and available under the MIT License. You are free to use, modify, and distribute it as per the license terms.
+
+This README provides an overview of your "ATM Interface" project, its features, how to use it, and why it's valuable. Customize it further with specific details about your project's structure and usage instructions as needed.
